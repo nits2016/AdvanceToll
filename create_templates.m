@@ -1,4 +1,5 @@
-
+%CREATE TEMPLATES
+%Letter
 A=imread('A.bmp');B=imread('B.bmp');
 C=imread('C.bmp');D=imread('D.bmp');
 E=imread('E.bmp');F=imread('F.bmp');
@@ -40,6 +41,7 @@ ninefill2=imread('fill9_2.bmp');
 
 
 
+%*-*-*-*-*-*-*-*-*-*-*-
 letter=[A Afill B Bfill C D Dfill E F G H I J K L M...
     N O Ofill P Pfill Q Qfill R Rfill S T U V W X Y Z];
 
