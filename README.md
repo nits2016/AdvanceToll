@@ -1,6 +1,5 @@
 # AdvanceToll
 Project : Advance Toll Booth automation  
-Me and my team work on this project and the prototype was selected by NASSCOM and CYBAGE companies.
 
 
 Advance Toll Booth Automation is actually based on paying the toll without stopping at Toll Booth. It actually saves the time,Fuel money. prevent long queue and also prevent travellers through various emotional frustrations.
